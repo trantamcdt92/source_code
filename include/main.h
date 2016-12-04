@@ -3,5 +3,9 @@
 
 #define MAX 100
 
+int sum(int a, int b) {
+	return (a + b)
+}
+
 #endif
 
